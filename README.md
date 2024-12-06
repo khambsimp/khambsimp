@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Khambrel, and I am really interested in Front End Software! I develop Websites for Record Labels, Fashion, Typography, and SaaS Companies.
+My name is Khambrel, and I am really interested in Front End Software and embedded systems! I develop Websites for Record Labels, Fashion, Typography, and SaaS Companies.
 I work with Javascript, Deno, Lume, Fresh, and SaasKit.
 
 <!--
